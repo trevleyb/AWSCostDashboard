@@ -21,6 +21,7 @@ public class Program {
             _cts.Cancel();
         };
 
+        Directory.SetCurrentDirectory(AppContext.BaseDirectory);
         LoadConfiguration();
         InitializeServices();
 
