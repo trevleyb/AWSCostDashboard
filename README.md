@@ -1,6 +1,6 @@
-# AWS Cost Monitor
+# AWS Cost Dashboard
 
-A .NET console application for monitoring AWS costs across multiple accounts. Runs in the background on macOS and provides day-by-day cost comparisons.
+A .NET console application for monitoring AWS costs across multiple accounts. 
 
 ## Features
 
